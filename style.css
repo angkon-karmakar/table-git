@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(35, 4, 65);
+
+}
+/* li{
+    font-size: large;
+    color: whitesmoke;
+} */
+h1 , h2 , h3 , h4 , h5 , h6 , li ,p , td ,th{
+
+    color: white;
+}
+table{
+    
+    border-collapse: collapse;
+    
+}
+td ,th{
+   
+    border-collapse: collapse;
+    border: 2px solid rgb(72, 201, 136);
+    padding-left: 5px;
+    padding-right:5px ;
+}
